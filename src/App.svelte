@@ -111,6 +111,8 @@
     resize: none;
   }
 
+
+//code version1
   .color-buttons {
     margin-top: 10px;
   }
